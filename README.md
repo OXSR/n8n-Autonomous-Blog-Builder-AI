@@ -88,4 +88,5 @@ The workflow is multi-language and it has been tested to create blogs in (Russia
 - [Blog example (IT)](https://i.ibb.co/zhzHFjHn/example-blog-it-lang.jpg)  
 - [Email received](https://i.ibb.co/przyrwQz/blog-created-email.jpg)  
 
-**More info and photos:** [oriolrotllant3@gmail.com](mailto:oriolrotllant3@gmail.com)
+## Unique Workflow
+For now, it's n8n's most extensive workflow and the only workflow with AI to operate 100% autonomously. It's an excellent creation. For obvious reasons, I'm not publishing the source code freely, and I'm leaving the purchase URL on my n8n profile: https://n8n.io/workflows/7376-autonomous-blog-publishing-from-youtube-videos-with-chatgpt-sheets-apify-pexels-and-wordpress/
